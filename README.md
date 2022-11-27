@@ -7,4 +7,3 @@
 $phys = new Phys(); 
 $phys->sum(1,2);
 
-?>
